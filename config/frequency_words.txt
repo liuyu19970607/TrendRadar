@@ -1,6 +1,10 @@
 人工智能
 AI  
 ChatGPT
+大模型
+aigc
+agent
+
 +技术
 !广告
 !培训
