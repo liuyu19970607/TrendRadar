@@ -63,6 +63,8 @@ weight:
 platforms:
   - id: "weibo"
     name: "微博"
+  - id: "github"
+    name: "github"
   - id: "douyin"
     name: "抖音"
   - id: "zhihu"
